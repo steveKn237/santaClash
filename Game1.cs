@@ -8,7 +8,7 @@ namespace SantaClash
 {
     /// <summary>
     /// Classe principale du jeu Santa Clash
-    /// Un jeu simple où le Père Noël tire sur des ennemis qui descendent
+    /// Un jeu simple où le Père Noël tire sur des ennemis qui montent
     /// </summary>
     public class Game1 : Game
     {
